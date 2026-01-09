@@ -112,8 +112,8 @@ Bird b2 = new Eagle();
 b2.fly();   // Calls Eagle's fly()
 ```
 
-✔ Method call depends on **object**, not reference
-✔ Achieved using **Dynamic Method Dispatch**
+* ✔ Method call depends on **object**, not reference
+* ✔ Achieved using **Dynamic Method Dispatch**
 
 ---
 

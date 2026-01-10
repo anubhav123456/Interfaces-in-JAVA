@@ -1,9 +1,7 @@
-Below are **clean, exam-ready + interview-ready notes** for your code.
-I’ll explain **concept → pattern → flow → output**, with **code snippets** included.
 
 ---
 
-# 📌 Abstract Class + Interface (with Example)
+# 📌 Abstract Class + Interface
 
 ## 🔹 Core Idea
 

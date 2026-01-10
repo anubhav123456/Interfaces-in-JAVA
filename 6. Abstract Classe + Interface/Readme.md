@@ -164,8 +164,6 @@ abstract class BasePayment implements Payment
 }
 ```
 
-But your version is **conceptually inspired**, not strict.
-
 ---
 
 ## 🔹 Concrete Implementations
